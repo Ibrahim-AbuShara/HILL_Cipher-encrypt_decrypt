@@ -2,10 +2,10 @@
 
 ### Installing  tkinter for GUI
 
-*For Python 3
-sudo apt-get install python3-tk
-*For Python 2.7
-sudo apt-get install python-tk
+####For Python 3
+*sudo apt-get install python3-tk
+####For Python 2.7
+*sudo apt-get install python-tk
 
 
 
