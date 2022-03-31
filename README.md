@@ -7,7 +7,7 @@
 ##### For Python 2.7
 * sudo apt-get install python-tk
 #### Windows
-* linux
+* pip3 install tk
 
 
 
